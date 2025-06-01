@@ -33,11 +33,12 @@ This repository contains solutions for **Assignment 1** of Summer Analytics 2025
 
 ---
 
-## **🛠 Tech Stack**
+## 🛠️ Tech Stack
 <div align="center">
-  <img src="https://jupyter.org/assets/homepage/main-logo.svg" width="120" title="Jupyter">
-  <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" width="120" title="Pandas">
-  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="120" title="Seaborn">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" title="Python">
+  <img src="https://pandas.pydata.org/static/img/pandas_white.svg" width="50" title="Pandas">
+  <img src="https://matplotlib.org/stable/_static/logo2.svg" width="100" title="Matplotlib">
+  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="100" title="Seaborn">
 </div>
 
 ---
@@ -45,6 +46,8 @@ This repository contains solutions for **Assignment 1** of Summer Analytics 2025
 ## **📊 Sample Visualizations**
 <div align="center">
   <img src="https://matplotlib.org/stable/_images/sphx_glr_bar_001.png" width="300" style="margin:10px">
+  <br>
+    <img src="https://matplotlib.org/stable/_images/sphx_glr_scatter_001.png" width="300" style="margin:10px">
   <br>
   <em>Figure: Example visualizations from analysis</em>
 </div>
