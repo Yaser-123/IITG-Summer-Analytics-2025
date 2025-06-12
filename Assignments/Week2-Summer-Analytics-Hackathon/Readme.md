@@ -1,7 +1,7 @@
 # 🌱 NDVI Classification Hackathon Project
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Breathing_planet_-_vegetation_-_GIF_%2850906243727%29.gif" width="250" alt="NDVI Animation"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzQ1Nzl4Zng0NDNydnR4dmk1a3Jua3B2em1pamM1cHB4bWp4bDRwYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3V0megwbBeETMgZa/giphy.gif" width="250" alt="NDVI Animation"/>
 </p>
 
 <p align="center">
