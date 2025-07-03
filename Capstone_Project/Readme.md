@@ -75,16 +75,6 @@ flowchart LR
   <img src="./Workflow%20with%20Technologies.png" alt="Workflow Diagram" width="600"/>
 </p>
 
-```mermaid
-flowchart TD
-    A[Data Ingestion] --> B[Data Cleaning]
-    B --> C[Exploratory Data Analysis]
-    C --> D[Model Selection & Training]
-    D --> E[Evaluation]
-    E --> F[Deployment]
-    F --> G[Dashboard (Bokeh)]
-```
-
 ---
 
 ## ✨ Features
