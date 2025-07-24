@@ -1,0 +1,27 @@
+# 🔧 Age Prediction ML - Requirements
+# Core Data Science Libraries
+pandas>=1.3.0
+numpy>=1.21.0
+
+# Machine Learning Libraries
+scikit-learn>=1.0.0
+xgboost>=1.5.0
+catboost>=1.0.0
+lightgbm>=3.3.0
+imbalanced-learn>=0.8.0
+
+# Data Visualization
+matplotlib>=3.5.0
+seaborn>=0.11.0
+
+# Jupyter Environment
+jupyter>=1.0.0
+ipykernel>=6.0.0
+
+# Additional Utilities
+tqdm>=4.62.0
+warnings
+
+# Optional Performance Boosters
+numba>=0.56.0  # Optional: For faster computations
+joblib>=1.1.0  # Optional: For parallel processing
