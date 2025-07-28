@@ -3,12 +3,8 @@
 <div align="center">
   <img src="https://www.clipartmax.com/png/middle/334-3342031_iit-guwahati-logo.png" width="180" alt="IITG Logo">
   <h3><em>Official Repository for Summer Analytics 2025 by IIT Guwahati</em></h3>
-  <a href="https://github.com/Yaser-123/IITG-Summer-Analytics-2025">
-    <img src="https://img.shields.io/github/stars/Yaser-123/IITG-Summer-Analytics-2025?style=social" alt="Star this repo">
-  </a>
-  <a href="https://github.com/Yaser-123/IITG-Summer-Analytics-2025">
-    <img src="https://img.shields.io/github/stars/Yaser-123/IITG-Summer-Analytics-2025?style=social" alt="Star this repo">
-  </a>
+  <a href="https://github.com/Yaser-123/IITG-Summer-Analytics-2025/stargazers">
+    <img src="https://img.shields.io/github/stars/Yaser-123/IITG-Summer-Analytics-2025?style=for-the-badge&logo=github" alt="GitHub stars">
   </a>
 </div>
 
@@ -49,7 +45,6 @@
 ## 📂 Repository Structure
 
 ```
-
 IITG-Summer-Analytics-2025/
 │
 ├── Assignments/
@@ -68,7 +63,6 @@ IITG-Summer-Analytics-2025/
 │   └── Workshop-Notes/
 │
 └── Certificates/
-
 ```
 
 ---
@@ -115,9 +109,9 @@ IITG-Summer-Analytics-2025/
 ---
 
 <div align="center">
-  <h3>📬 Let’s Connect</h3>
-  <a href="https://github.com/Yaser-123/IITG-Summer-Analytics-2025">
-  <img src="https://img.shields.io/github/stars/Yaser-123/IITG-Summer-Analytics-2025?style=social" alt="Star this repo">
+  <h3>📬 Let's Connect</h3>
+  <a href="https://github.com/Yaser-123/IITG-Summer-Analytics-2025/stargazers">
+    <img src="https://img.shields.io/github/stars/Yaser-123/IITG-Summer-Analytics-2025?style=social" alt="Star this repo">
   </a>
   <a href="mailto:1ammar.yaser@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
@@ -125,7 +119,7 @@ IITG-Summer-Analytics-2025/
 ---
 
 <div align="center">
-  <strong>⭐ Don't forget to star this repo if you find it helpful. Let’s grow together in Data Science! 🚀</strong>
+  <strong>⭐ Don't forget to star this repo if you find it helpful. Let's grow together in Data Science! 🚀</strong>
   <br><br>
   <em>Made with ❤️ and a lot of Pandas & Caffeine</em>
 </div>
