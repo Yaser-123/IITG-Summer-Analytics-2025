@@ -8,6 +8,12 @@
   </a>
 </div>
 
+<div align="center">
+  <a href="https://star-history.com/#Yaser-123/IITG-Summer-Analytics-2025">
+    <img src="https://api.star-history.com/svg?repos=Yaser-123/IITG-Summer-Analytics-2025&type=Date" width="500" alt="Star History Chart">
+  </a>
+</div>
+
 > 🧠 A curated collection of assignments, projects, and resources from one of India's premier Data Science programs.
 
 ---
@@ -109,10 +115,8 @@ IITG-Summer-Analytics-2025/
 ---
 
 <div align="center">
-  <h3>📬 Let's Connect</h3>
-  <a href="https://github.com/Yaser-123/IITG-Summer-Analytics-2025/stargazers">
-    <img src="https://img.shields.io/github/stars/Yaser-123/IITG-Summer-Analytics-2025?style=social" alt="Star this repo">
-  </a>
+  <h3>📬 Let’s Connect</h3>
+  <a href="https://www.linkedin.com/in/mohamedyaser08/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:1ammar.yaser@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
 
