@@ -3,8 +3,12 @@
 <div align="center">
   <img src="https://www.clipartmax.com/png/middle/334-3342031_iit-guwahati-logo.png" width="180" alt="IITG Logo">
   <h3><em>Official Repository for Summer Analytics 2025 by IIT Guwahati</em></h3>
-  <a href="https://github.com/Yaser-123/IITG-Summer-Analytics-2025/stargazers">
-    <img src="https://img.shields.io/github/stars/Yaser-123/IITG-Summer-Analytics-2025?style=social" alt="GitHub Repo stars">
+  <a href="https://github.com/Yaser-123/IITG-Summer-Analytics-2025">
+    <img src="https://img.shields.io/github/stars/Yaser-123/IITG-Summer-Analytics-2025?style=social" alt="Star this repo">
+  </a>
+  <a href="https://github.com/Yaser-123/IITG-Summer-Analytics-2025">
+    <img src="https://img.shields.io/github/stars/Yaser-123/IITG-Summer-Analytics-2025?style=social" alt="Star this repo">
+  </a>
   </a>
 </div>
 
@@ -112,7 +116,9 @@ IITG-Summer-Analytics-2025/
 
 <div align="center">
   <h3>📬 Let’s Connect</h3>
-  <a href="https://www.linkedin.com/in/mohamedyaser08/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/Yaser-123/IITG-Summer-Analytics-2025">
+  <img src="https://img.shields.io/github/stars/Yaser-123/IITG-Summer-Analytics-2025?style=social" alt="Star this repo">
+  </a>
   <a href="mailto:1ammar.yaser@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
 
