@@ -2,16 +2,7 @@
 
 <div align="center">
   <img src="https://www.clipartmax.com/png/middle/334-3342031_iit-guwahati-logo.png" width="180" alt="IITG Logo">
-  <h3><em>Official Repository for Summer Analytics 2025 by IIT Guwahati</em></h3>
-  <a href="https://github.com/Yaser-123/IITG-Summer-Analytics-2025/stargazers">
-    <img src="https://img.shields.io/github/stars/Yaser-123/IITG-Summer-Analytics-2025?style=for-the-badge&logo=github" alt="GitHub stars">
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://star-history.com/#Yaser-123/IITG-Summer-Analytics-2025">
-    <img src="https://api.star-history.com/svg?repos=Yaser-123/IITG-Summer-Analytics-2025&type=Date" width="500" alt="Star History Chart">
-  </a>
+  <h3><em>UnOfficial Repository for Summer Analytics 2025 by IIT Guwahati</em></h3>
 </div>
 
 > 🧠 A curated collection of assignments, projects, and resources from one of India's premier Data Science programs.
